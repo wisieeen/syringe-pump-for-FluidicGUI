@@ -1,0 +1,3 @@
+3d models and Arduino code necessary to build syringe pump compatible with FluidicGUI.
+Seeed studio Xiao ESP32C3 is default board.
+PCB coming soon...
