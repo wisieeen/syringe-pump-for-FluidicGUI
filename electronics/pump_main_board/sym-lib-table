@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Xiao 32-C3")(type "KiCad")(uri "${KIPRJMOD}/custom_components/MOUDLE-SEEEDUINO-XIAO-ESP32C3.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC2209")(type "KiCad")(uri "C:/Users/wisie/Documents/KiCad/9.0/symbols/TMC2209_SILENTSTEPSTICK.kicad_sym")(options "")(descr ""))
+)
